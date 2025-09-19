@@ -3,10 +3,11 @@ layout: home
 title: Probability and Statistical Inference
 ---
 
-## Lectures 
 
-### Introduction Lecture 
+## Introduction Lecture 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GEzdn6BUZS4?si=bJFDmAcsUSBjzC0t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Lectures 
 
 ### [Week 1 Lectures and Tutorials](Week1/index.md)
 ### [Week 2 Lectures and Tutorials](Week2/index.md)
