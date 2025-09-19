@@ -5,26 +5,14 @@ title: Week 3
 
 ## Week 3 Lectures
 
-### Data Types
+### Discrete Distributions
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yA2s9WAAsj0?si=ogbmriKE-hb6Voc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Measures of Location
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D0So5L1xHbU?si=IkdCdCwZ48Sq52GD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-__Middle__
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HXSCbU4APuE?si=JQuW-Onk-2sA4BPb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Bernoulli and Geometric Distribution
 
-__Spread__
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bJF_TSKUrhc?si=2h3Vr7u6MyVe36Ey" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-__Skewness__
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5V8ShbWty8s?si=jtoA18KPPWYNHz-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-### Counting Rules
-<iframe width="560" height="315" src="https://www.youtube.com/embed/onSnUJt2esY?si=xBAKvsL5IcQl4UQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/axrND6Ye-io?si=k82PeyT_hjmVbugh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Tutorial Sheets
