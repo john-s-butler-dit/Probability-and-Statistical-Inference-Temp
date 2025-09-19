@@ -1,12 +1,9 @@
-title: Maths in the Wild
+title: Probability and Statistical Inference Temp
 theme: minima
 markdown: kramdown
 
 # Navigation menu items
 header_pages:
-  - 01_Predator_Prey/index.md
-  - 02_NeuroAI/index.md
-  - 03_Multisensory/index.md
-  - 04_DecisionMaking/index.md
-  - 05_EigenFaces/index.md
-  - 99_Misc/index.md
+  - Week1/index.md
+  - Week2/index.md
+  - Week3/index.md
