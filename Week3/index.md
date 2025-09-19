@@ -16,7 +16,7 @@ title: Week 3
 
 
 ## Tutorial Sheets
-### Week 3 [Discrete Distributions](Tutorials/Tutorial03_DiscreteDist.pdf)
+### Week 3 [Discrete Distributions](../Tutorials/Tutorial03_DiscreteDist.pdf)
 
 
 
