@@ -15,7 +15,7 @@ title: Probability and Statistical Inference
 
 
 ## Tutorial Sheets
-Week 1 [Measures of Location and Couting](Tutorials/Tuorial01.pd)
+Week 1 [Measures of Location and Couting](Tutorials/Tutorial01_Questions.pdf)
 
 
 
