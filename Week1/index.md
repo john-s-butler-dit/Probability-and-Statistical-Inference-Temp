@@ -29,7 +29,7 @@ __Skewness__
 
 
 ## Tutorial Sheets
-### Week 1 [Measures of Location and Couting](Tutorials/Tutorial01_Questions.pdf)
+### Week 1 [Measures of Location and Couting](../Tutorials/Tutorial01_Questions.pdf)
 
 
 
