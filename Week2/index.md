@@ -15,7 +15,7 @@ title: Week 2
 
 
 ## Tutorial Sheets
-### Week 2 [Mathematical Probability](Tutorials/Tutorial02_Probability.pdf)
+### Week 2 [Mathematical Probability](../Tutorials/Tutorial02_Probability.pdf)
 
 
 
