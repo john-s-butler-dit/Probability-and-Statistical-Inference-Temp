@@ -1,41 +1,42 @@
 ---
 layout: home
-title: Maths in the Wild
+title: Probability and Statistical Inference
 ---
 
+## Lectures 
 
-**Maths in the Wild** consists of five workshops designed for primary and secondary school students. Participants engage in interactive experiments and mathematical calculations, allowing them to experience firsthand how maths and science, mainly neuroscience, are applied in exploring and understanding our surroundings.
+## Introduction Lecture 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GEzdn6BUZS4?si=bJFDmAcsUSBjzC0t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The workshops were written by 
-[John Butler](https://johnsbutler.netlify.app), 
-a maths lecturer at Technological
-University Dublin. John combines his knowledge
-of mathematics and neuroscience to create
-experiments and analysis techniques that
-let us explore the world through maths.
+## Week 1 Lectures
 
-## Workshops
-1. [Predator Prey](01_Predator_Prey/index.md)
-2. [Machine Learning](02_NeuroAI/index.md)
-3. [Multisensory Integration](03_Multisensory/index.md)
-4. [Decision Making](04_DecisionMaking/index.md)
-5. [Face Recognition](05_EigenFaces/index.md)
+### Data Types
 
-Each workshop has a presentation, a video, some code and worksheet, which is freely available for anyone who wants to use them.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yA2s9WAAsj0?si=ogbmriKE-hb6Voc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![MATHS IN THE WILD FLYER](https://github.com/user-attachments/assets/dbf14801-501d-457f-8ff9-7df77a99db15)
+### Measures of Location
 
 
+__Middle__
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HXSCbU4APuE?si=JQuW-Onk-2sA4BPb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+__Spread__
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bJF_TSKUrhc?si=2h3Vr7u6MyVe36Ey" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+__Skewness__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5V8ShbWty8s?si=jtoA18KPPWYNHz-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<iframe width="360" height="640" 
-        src="https://www.youtube.com/embed/najLpsySkio?si=r9WmtoV5vOf9tv6u"
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+### Counting Rules
+<iframe width="560" height="315" src="https://www.youtube.com/embed/onSnUJt2esY?si=xBAKvsL5IcQl4UQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Student Feedback Form](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUMFBNWFY4R1hDUjU2SjRNU0xKR1o2Q0RYTi4u)
 
-[Teacher Feedback Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUOTVMWE0zVUhJVTVPUEpGTUQyVDdXNEs3Vi4u)
+## Tutorial Sheets
+### Week 1 [Measures of Location and Couting](Tutorials/Tutorial01_Questions.pdf)
+### Week 2 [Mathematical Probability](Tutorials/Tutorial02_Probability.pdf
+### Week 3 [Discrete Distributions](Tutorials/Tutorial03_DiscreteDist.pdf
+
+
+
+
