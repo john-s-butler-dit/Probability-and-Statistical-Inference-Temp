@@ -4,7 +4,8 @@ title: Week 1
 ---
 
 
-## Week 1 Lectures
+## Week 1 Lectures 
+Watch all the lectures and have a go at the tutorial by Monday the 29th of September.
 
 ### Data Types
 
