@@ -9,9 +9,9 @@ title: Probability and Statistical Inference
 
 ## Lectures 
 
-### [Week 1 Lectures and Tutorials](Week1/index.md)
-### [Week 2 Lectures and Tutorials](Week2/index.md)
-### [Week 3 Lectures and Tutorials](Week3/index.md)
+### [Week 1 Lectures and Tutorials 29/09/2026](Week1/index.md)
+### [Week 2 Lectures and Tutorials 06/10/2026](Week2/index.md)
+### [Week 3 Lectures and Tutorials 13/10/2026](Week3/index.md)
 
 
 
