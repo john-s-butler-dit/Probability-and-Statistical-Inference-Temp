@@ -5,6 +5,9 @@ title: Week 2
 
 ## Week 2 Lectures
 
+Watch all the lectures and have a go at the tutorial by Monday the 6th of October.
+
+
 ### Mathematical Probability
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E4q4tPCjd4Y?si=oVM_ABOY6Zz_arni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
